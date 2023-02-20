@@ -2,7 +2,7 @@
 
 ### A short and simple DOM application to understand the basics of correlation between HTML, CSS and Javascript. 
 
-A simple DOM application using APIs. The application allows to fetch new quotes with their author. In addition to that we can also post the readily available quote on our Twitter account just by one click. It is made using HTML, CSS and Vanilla Javascript. The main focus is on understanding how these three work together. An ample amount of comments are used throughout the code. 
+A simple DOM application using APIs. The application allows to get new quotes with the author name. In addition to that we can also post the readily available quote on our Twitter account just by one click. It is made using HTML, CSS and Vanilla Javascript. The main focus is on understanding how these three work together. An ample amount of comments are used throughout the code. 
 
 
 ## Getting Started
