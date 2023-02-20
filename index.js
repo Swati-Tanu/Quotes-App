@@ -6,7 +6,7 @@ let realData = "";
 let quotesData = "";
 
 const tweetNow = () => {
-    let tweetPost = `http://twitter.com/intent/tweet?text=${quotesData.text} by ${quotesData.author}`;
+    let tweetPost = `http://twitter.com/intent/tweet?text=${quotesData.text}`;
     window.open(tweetPost)
 }
 
