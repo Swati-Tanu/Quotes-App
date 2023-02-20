@@ -42,7 +42,7 @@ A couple of Screenshots:
 ## Deployment
 
 The deployed link of the project: 
-#### hhttps://dynamicquotesapp.netlify.app/
+#### https://dynamicquotesapp.netlify.app/
 
 ## Contributions
 
