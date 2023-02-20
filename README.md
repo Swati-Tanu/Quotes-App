@@ -12,7 +12,7 @@ A simple DOM application using APIs. The application allows to fetch new quotes 
 * Clone or download the repository to your local machine.
 * Open the index.html file in your preferred browser to view the website.
 * Click the "New Quotes" button to get a new quote.
-* Click on the Twitter button to be redirected to your Twitter account and get a readily available post (make sure you are logged in to your         Twitter account beforehand.)
+* Click on the Twitter logo to be redirected to your Twitter account and get a readily available post (make sure you are logged in to your         Twitter account beforehand.)
 * Explore the code by opening the file in a text editor and following the comments.
 
 
