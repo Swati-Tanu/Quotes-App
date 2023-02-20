@@ -30,7 +30,11 @@ A short video demo of the complete project:
 ## Screenshots
 
 A couple of Screenshots:
+
+
 <img width="650" alt="q1" src="https://user-images.githubusercontent.com/112818778/220021694-b999f61c-2046-42f3-b30e-08662a561b95.png">
+
+
 <img width="631" alt="q2" src="https://user-images.githubusercontent.com/112818778/220021723-9b998ff0-a64a-49e4-97f7-a7a5cebe9402.png">
 
 
