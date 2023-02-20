@@ -12,7 +12,7 @@ A simple DOM application using APIs. The application allows to fetch new quotes 
 * Clone or download the repository to your local machine.
 * Open the index.html file in your preferred browser to view the website.
 * Click the "New Quotes" button to get a new quote.
-* Click on the Twitter button to be redirected to your Twitter account and get a readily available post (make sure you are logged in to your Twitter account beforehand.)
+* Click on the Twitter logo to be redirected to your Twitter account and get a readily available post (make sure you are logged in to your         Twitter account beforehand.)
 * Explore the code by opening the file in a text editor and following the comments.
 
 
@@ -32,11 +32,17 @@ A short video demo of the complete project:
 A couple of Screenshots:
 
 
+<img width="650" alt="q1" src="https://user-images.githubusercontent.com/112818778/220021694-b999f61c-2046-42f3-b30e-08662a561b95.png">
+
+
+<img width="631" alt="q2" src="https://user-images.githubusercontent.com/112818778/220021723-9b998ff0-a64a-49e4-97f7-a7a5cebe9402.png">
+
+
 
 ## Deployment
 
 The deployed link of the project: 
-#### hhttps://dynamicquotesapp.netlify.app/
+#### https://dynamicquotesapp.netlify.app/
 
 ## Contributions
 
